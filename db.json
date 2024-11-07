@@ -1,0 +1,288 @@
+{
+    "movies":[
+        {
+          "id": 1,
+          "title": "Saw",
+          "description": "A man wakes up in a room with no memory of how he got there and must play a deadly game to survive.",
+          "category": "horror",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 2,
+          "title": "The Conjuring",
+          "description": "A family is haunted by disturbing events, prompting paranormal investigators to uncover the truth.",
+          "category": "horror",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 3,
+          "title": "Inception",
+          "description": "A skilled thief enters the dreams of others to steal secrets, but he faces his toughest job yet.",
+          "category": "sci-fi",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 4,
+          "title": "The Matrix",
+          "description": "A computer hacker discovers that reality is not what it seems and that he is part of a larger rebellion.",
+          "category": "sci-fi",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 5,
+          "title": "Titanic",
+          "description": "A young couple from different social classes fall in love aboard the ill-fated RMS Titanic.",
+          "category": "romance",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 6,
+          "title": "The Notebook",
+          "description": "A couple reflects on their decades-long romance, as their love story unfolds through memories and trials.",
+          "category": "romance",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 7,
+          "title": "Avengers: Endgame",
+          "description": "The Avengers must unite to undo the damage caused by Thanos and restore the balance of the universe.",
+          "category": "action",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 8,
+          "title": "Mad Max: Fury Road",
+          "description": "In a post-apocalyptic world, Max teams up with Furiosa to escape a tyrannical warlord in a high-speed chase.",
+          "category": "action",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 9,
+          "title": "The Lion King",
+          "description": "A young lion prince must reclaim his rightful place as king after his father's untimely death.",
+          "category": "animation",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 10,
+          "title": "Toy Story",
+          "description": "Toys come to life when their owner isn't around, and Woody, a cowboy doll, must accept a new toy in the family.",
+          "category": "animation",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 11,
+          "title": "The Godfather",
+          "description": "A powerful mafia family struggles with betrayal, loyalty, and the future of their empire as the new generation rises.",
+          "category": "drama",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 12,
+          "title": "Shawshank Redemption",
+          "description": "Two men form a life-long bond after being sentenced to prison for crimes they did not commit, and plan their escape.",
+          "category": "drama",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 13,
+          "title": "Jurassic Park",
+          "description": "A theme park with genetically engineered dinosaurs goes awry when the creatures break free and wreak havoc.",
+          "category": "adventure",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 14,
+          "title": "Indiana Jones: Raiders of the Lost Ark",
+          "description": "An archaeologist races against Nazis to find the biblical Ark of the Covenant and prevent its power from falling into evil hands.",
+          "category": "adventure",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 15,
+          "title": "The Pursuit of Happyness",
+          "description": "A struggling salesman takes care of his young son while facing numerous challenges in the pursuit of a better life.",
+          "category": "biography",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 16,
+          "title": "A Beautiful Mind",
+          "description": "A brilliant but troubled mathematician struggles with schizophrenia while achieving groundbreaking work in game theory.",
+          "category": "biography",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 17,
+          "title": "The Exorcist",
+          "description": "A young girl is possessed by a demon, and a team of priests is called upon to perform a dangerous exorcism.",
+          "category": "horror",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 18,
+          "title": "The Dark Knight",
+          "description": "Batman faces his greatest adversary, the Joker, a criminal mastermind bent on plunging Gotham into chaos.",
+          "category": "superhero",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 19,
+          "title": "Spider-Man: No Way Home",
+          "description": "Spider-Man's secret identity is revealed, and he teams up with other versions of Spider-Man from alternate universes.",
+          "category": "superhero",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 20,
+          "title": "Frozen",
+          "description": "A princess with magical ice powers embarks on a dangerous journey to find her estranged sister and save their kingdom.",
+          "category": "family",
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+      ,
+    "series":[
+        {
+          "id": 1,
+          "title": "Stranger Things",
+          "description": "A group of kids uncover a government conspiracy and face supernatural threats in their small town.",
+          "category": "sci-fi",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 2,
+          "title": "Breaking Bad",
+          "description": "A high school chemistry teacher turned methamphetamine manufacturer struggles with moral dilemmas and criminal pressure.",
+          "category": "drama",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 3,
+          "title": "Game of Thrones",
+          "description": "Noble families vie for control of the Iron Throne in a brutal, politically charged medieval fantasy world.",
+          "category": "fantasy",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 4,
+          "title": "The Crown",
+          "description": "A biographical drama chronicling the reign of Queen Elizabeth II and the events that shaped the modern British monarchy.",
+          "category": "biography",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 5,
+          "title": "The Office",
+          "description": "A mockumentary-style comedy that takes a look at the everyday lives of office employees at Dunder Mifflin.",
+          "category": "comedy",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 6,
+          "title": "Friends",
+          "description": "Six friends navigate life's ups and downs in New York City, dealing with work, relationships, and personal growth.",
+          "category": "comedy",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 7,
+          "title": "The Mandalorian",
+          "description": "A lone bounty hunter in the outer reaches of the galaxy embarks on a mission to protect a mysterious child from dark forces.",
+          "category": "sci-fi",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 8,
+          "title": "Black Mirror",
+          "description": "An anthology series exploring the dark side of modern society and the unintended consequences of new technologies.",
+          "category": "sci-fi",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 9,
+          "title": "The Witcher",
+          "description": "A monster hunter with a complex destiny struggles to find his place in a world full of magical creatures and political intrigue.",
+          "category": "fantasy",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 10,
+          "title": "Narcos",
+          "description": "The rise of the Medellín drug cartel and the battle to bring down its infamous leader, Pablo Escobar.",
+          "category": "crime",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 11,
+          "title": "Sherlock",
+          "description": "A modern-day adaptation of the famous detective Sherlock Holmes as he solves cases with his friend, Dr. Watson.",
+          "category": "crime",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 12,
+          "title": "Money Heist",
+          "description": "A mastermind plans and executes a heist on the Royal Mint of Spain, assembling a team of criminals to carry it out.",
+          "category": "thriller",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 13,
+          "title": "Stranger Things",
+          "description": "A group of kids uncover a government conspiracy and face supernatural threats in their small town.",
+          "category": "horror",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 14,
+          "title": "Westworld",
+          "description": "In a futuristic theme park, artificial beings begin to question their reality, leading to an escalating struggle for control.",
+          "category": "sci-fi",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 15,
+          "title": "Peaky Blinders",
+          "description": "A gangster family in post-WWI Birmingham rises to power, facing internal and external struggles in a dangerous world.",
+          "category": "crime",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 16,
+          "title": "The Boys",
+          "description": "A group of vigilantes take on corrupt superheroes, exposing the dark side of heroism in a world where they are controlled by corporations.",
+          "category": "superhero",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 17,
+          "title": "Lucifer",
+          "description": "The Devil abandons Hell to live in Los Angeles, where he opens a nightclub and helps the LAPD solve crimes.",
+          "category": "fantasy",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 18,
+          "title": "Fargo",
+          "description": "A series inspired by the Coen Brothers' movie, revolving around crime, deception, and morally complex characters in a bleak Midwestern setting.",
+          "category": "thriller",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 19,
+          "title": "The Walking Dead",
+          "description": "Survivors of a zombie apocalypse struggle to stay alive, build new communities, and face the challenges of living in a hostile world.",
+          "category": "horror",
+          "image": "https://picsum.photos/200/300"
+        },
+        {
+          "id": 20,
+          "title": "How I Met Your Mother",
+          "description": "A man recounts to his children the story of how he met their mother, through the ups and downs of his dating life and friendships.",
+          "category": "comedy",
+          "image": "https://picsum.photos/200/300"
+        }
+      ]
+      
+}
